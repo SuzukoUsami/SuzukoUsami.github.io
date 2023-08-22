@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e37f57db.css",
+    "main.js": "/static/js/main.bda605f3.js",
+    "static/media/CV-catto-img.jpg": "/static/media/CV-catto-img.a57814d54f76dd3c29aa.jpg",
+    "static/media/three-cats-paws.png": "/static/media/three-cats-paws.8c780308582a50176809.png",
+    "index.html": "/index.html",
+    "main.e37f57db.css.map": "/static/css/main.e37f57db.css.map",
+    "main.bda605f3.js.map": "/static/js/main.bda605f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37f57db.css",
+    "static/js/main.bda605f3.js"
+  ]
+}
